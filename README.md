@@ -28,3 +28,4 @@
 
 ####Verkefnaskil á Innu:  Skilaðu tengli á GitHub geymsluna þína í öllum áföngunum sem eru með hópverkefnið. 
 
+Gerði breytingu
