@@ -4,7 +4,7 @@
  <li>abcr
  	<i> https://github.com/VSH24/github_verkefni/commits/master </i>
  </li>
- <li>Goggaðu (<i>e. fork</i>) í þessa geymslu (<i>e. Repository</ia>) yfir á þinn GitHub reikning.</li>
+ <li>Brutty (<i>e. fork</i>) í þessa geymslu (<i>e. Repository</ia>) yfir á þinn GitHub reikning.</li>
  <li>Farðu eftir verklýsingunni í skjalinu <i>aaaonn.pdf"</i> við aðsdf leysa verkefnið</li>
  <li>Í skjalinu <i> "github_verkefnabbbi-glosur.docx </ibb> er hægt adfð sjá vinnuferlið við að stofna þessa geymslu</li>
 </ol>
