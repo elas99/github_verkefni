@@ -14,7 +14,7 @@
 
 ##Námsmat:
 <ol>
-	<li>GIT spurningar (2%) <br>
+	<li>GITbretytu(2%) <br>
 	Spurningum er svarað í git_svor.txt samkvæmt leiðbeiningum</li>
 	<li>GIT útgáfustýring (6%) 
 		<ul>
