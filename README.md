@@ -14,8 +14,10 @@
 
 ##Námsmat:
 <ol>
-	<li>GITbretytu(2%) <br>
-	Spurningum er svarað í git_svor.txt samkvæmt leiðbeiningum</li>
+
+	<li>GIT spurningar (2%) <br>
+	SBreyting</li>
+
 	<li>GIT útgáfustýring (6%) 
 		<ul>
 			<li><b>3% Git_verkefni.</b> Vinnusvæði vaktað með Git útgáfustjórnun og verkefnið 
